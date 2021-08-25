@@ -1,0 +1,17 @@
+.footer ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 88px;
+}
+.header {
+    height: 80px;
+    line-height: 80px;
+    font-size: 32px;
+    text-align: center;
+}
+.content {
+    flex: 1;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
